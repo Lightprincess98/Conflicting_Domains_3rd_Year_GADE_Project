@@ -5288,7 +5288,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   turn: 0
   moving: 0
-  move: 5
+  move: 3
   jumpHeight: 2
   moveSpeed: 2
   jumpVelocity: 4.5
@@ -6389,7 +6389,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   turn: 0
   moving: 0
-  move: 5
+  move: 3
   jumpHeight: 2
   moveSpeed: 2
   jumpVelocity: 4.5
@@ -6857,7 +6857,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   turn: 0
   moving: 0
-  move: 5
+  move: 3
   jumpHeight: 2
   moveSpeed: 2
   jumpVelocity: 4.5
@@ -11744,7 +11744,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   turn: 0
   moving: 0
-  move: 5
+  move: 3
   jumpHeight: 2
   moveSpeed: 2
   jumpVelocity: 4.5
@@ -12254,7 +12254,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   turn: 0
   moving: 0
-  move: 5
+  move: 3
   jumpHeight: 2
   moveSpeed: 2
   jumpVelocity: 4.5
@@ -16908,7 +16908,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   turn: 0
   moving: 0
-  move: 5
+  move: 3
   jumpHeight: 2
   moveSpeed: 2
   jumpVelocity: 4.5
@@ -17182,7 +17182,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   turn: 0
   moving: 0
-  move: 5
+  move: 3
   jumpHeight: 2
   moveSpeed: 2
   jumpVelocity: 4.5
@@ -17986,7 +17986,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   turn: 0
   moving: 0
-  move: 5
+  move: 3
   jumpHeight: 2
   moveSpeed: 2
   jumpVelocity: 4.5
